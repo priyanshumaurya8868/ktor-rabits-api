@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ktor-rabits">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ktor-rabits.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
